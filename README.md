@@ -8,7 +8,7 @@ making it pixel sharp on any devices. It has animating stats section, working co
 stylish portfolio section. 
 Built with clean and organized code, this template is very easy to customize.
 
-============================================================================
+===========================================================================
 
 
 USING THE MAILCHIMP FORM:
