@@ -2209,7 +2209,7 @@ html.no-csstransitions .home-content__main {
     /* background-color: #39b54a; */
     background: linear-gradient(to top, #8682a1, #574cc5, #2a2a4b);
 
-    color: #010507;
+    color: white;
     position: relative;
 }
 
@@ -2259,7 +2259,7 @@ html.no-csstransitions .home-content__main {
 .stats h5 {
     font-family: "montserrat-semibold", sans-serif;
     margin-top: 1.8rem;
-    color: #000000;
+    color: #cecf8b;
     font-size: 1.8rem;
     line-height: 1.333;
     position: relative;
@@ -3391,7 +3391,7 @@ footer .row {
 
 .text-ff{
     color: #FFFFFF;
-    margin: -.9rem 0 3rem 0;
+    margin: -.9rem 0 2rem 0;
 }
 
 .text-sf{
